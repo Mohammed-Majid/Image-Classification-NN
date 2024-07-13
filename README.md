@@ -1,6 +1,6 @@
 # MNIST Digit Recognition using Neural Network
 -------
-This repository contains code for training and evaluating a neural network from scratch to recognize handwritten digits from the MNIST dataset.
+This repository contains code for training and evaluating a neural network from scratch (No TF or Pytorch) to recognize handwritten digits from the MNIST dataset.
 ------
 ## Overview
 
@@ -31,8 +31,8 @@ pip install numpy pandas matplotlib
 --------
 ## Project Structure
 
-mnist_nn.py: The file that contains the script for loading data, defining the neural network, training, and evaluation.
-train-images.idx3-ubyte: The dataset file containing training images.
-train-labels.idx1-ubyte: The dataset file containing training labels.
-t10k-images.idx3-ubyte: The dataset file containing test images.
-t10k-labels.idx1-ubyte: The dataset file containing test labels.
+- mnist_nn.py: The file that contains the script for loading data, defining the neural network, training, and evaluation.
+- train-images.idx3-ubyte: The dataset file containing training images.
+- train-labels.idx1-ubyte: The dataset file containing training labels.
+- t10k-images.idx3-ubyte: The dataset file containing test images.
+- t10k-labels.idx1-ubyte: The dataset file containing test labels.
