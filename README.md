@@ -1,6 +1,6 @@
 # MNIST Digit Recognition using Neural Network
 -------
-This repository contains code for training and evaluating a neural network from scratch (No TF or Pytorch) to recognize handwritten digits from the MNIST dataset.
+This repository contains code for training and evaluating a neural network from scratch (no ML packages) to recognize handwritten digits from the MNIST dataset.
 ------
 ## Overview
 
